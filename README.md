@@ -19,7 +19,7 @@ https://join.slack.com/t/pumacoin/shared_invite/zt-cprrfkdw-4htKFtL0efGUSkGKDPzS
 
 Usa este link para agregarte a la discusión, propón temas o funcionalidades nuevas, cualquier idea es bienvenida. Cada funcionalidad esta dividida en un canal individual, si no existe ninguno en el cual encaje tu idea, puedes colocarlo en general.
 
-Utiliza el cana de tareas-pendientes para colaborar realizando alguna, la mayoría puede incluir una recompensa en forma de criptomonedas a cambio de su correcta realización.
+Utiliza el canal de tareas-pendientes para colaborar realizando alguna, la mayoría puede incluir una recompensa en forma de criptomonedas a cambio de su correcta realización.
 
 # Autores
 * Gerardo Pedrizco - Trabajo inicial - https://github.com/MarxMad
